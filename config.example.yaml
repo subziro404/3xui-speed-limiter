@@ -1,0 +1,10 @@
+xui:
+  base_url: http://127.0.0.1:2053
+  username: admin
+  password: change_me
+
+plans:
+  default: 15
+  users:
+    uuid-example-1: 15
+    uuid-example-2: 30
